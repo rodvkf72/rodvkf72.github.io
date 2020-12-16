@@ -4,29 +4,29 @@
 - name: Private Web
   gh_user: rodvkf72
   repo: GO_WEB
-  img: ../images/go.png
+  img: /images/go.png
   desc: 개인 블로그 제작 프로젝트 입니다.<br>Go언어의 Echo Framework를 적용하였으며 DB는 MySQL을 사용하였습니다.<br>백엔드, 프론트엔드의 구조적 이해를 위해 구조화 되어 있는 테마 툴 등은 일절 사용하지 않았습니다.
 
 - name: Makers
   gh_user: rodvkf72
   repo: Makers
-  img: ../images/android.png
+  img: /images/android.png
   desc: 여행 애플리케이션 제작 프로젝트 입니다.<br>DB, 웹, AR을 담당하였으며 안드로이드에서 요청 시 출력 값을 json 형식으로 하였으며 Unity의 Vuforia를 사용하여 특정 이미지 스캔 시 3D 오브젝트를 보여주도록 하였습니다.
 
 - name: Web Mail System
   gh_user: rodvkf72
   repo: WebMailSystem
-  img: ../images/java.png
+  img: /images/java.png
   desc: 기존의 웹 메일 시스템에 대한 유지, 보수 작업을 한 프로젝트 입니다.<br>교정 유지보수를 위해 Yasca, SonarQube를 사용하여 정적분석을 하였으며 적응 유지보수를 위해 첨부파일 쓰레드 처리, 완전화 유지보수를 위해 시스템 테스트 케이스 작성, 예방 유지보수를 위해 XSS 필터 구현 등의 작업을 하였습니다.
 
 - name: PayDay
   gh_user: rodvkf72
   repo: PayDay
-  img: ../images/spring.jpg
+  img: /images/spring.jpg
   desc: 간편결제 시스템 프로젝트 입니다.<br>Spring4, mybatis, Oracle DB를 사용하였습니다.<br>시스템 설계, 데이터 테이블을 작성하였으며 정보수정, 간편결제 등록/해제, 상품 구매 기능을 구현 작업을 하였습니다.
 
 - name: Online Coding problem
   gh_user: rodvkf72
   repo: online-coding-problem
-  img: ../images/prog.png
+  img: /images/prog.png
   desc: 프로그래머스, 백준 온라인 저지 문제를 직접 해결한 파일입니다.<br>프로그래머스는 Java로 작성하였으며 백준은 Go로 작성하였습니다.<br>풀이는 개인 블로그에 작성중이나 개인 블로그의 오류작업 수정으로 현재는 접속 불가 상태입니다.
