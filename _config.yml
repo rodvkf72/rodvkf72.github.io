@@ -1,19 +1,19 @@
 # Site settings
-title: Thomas Zühlke
+title: 김광호의 포트폴리오
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://github.com/rodvkf72'
 baseurl: 'https://rodvkf72.github.io/'
-profilepic: '/images/tzuehlke.jpg'
+profilepic: '/images/khki.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
+  name: 'Kwang Ho Kim'
+  email: rodvkf72@naver.com
+  #twitter_username: rodvkf72
+  facebook_username: rodvkf72
+  github_username:  rodvkf72
   linkedin_username:  thomas-zühlke-889182165
   meetup_name: Azure-Meetup-Rostock-MV
 
