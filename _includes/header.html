@@ -21,12 +21,12 @@
           <nav class="cover-navigation navigation--social">
             <ul class="navigation">
 
-            {% if site.author.facebook_username %}
+            {% if site.author.username %}
               <!-- Facebook -->
               <li class="navigation__item">
-                <a class="modal-trigger" href="#modal" title="test on Facebook" target="_blank">
+                <a class="modal-trigger" href="#modal" title="{{ site.author.username }} on Profile" target="_blank">
                   <i class="icon icon-info"></i>
-                  <span class="label">Facebook</span>
+                  <span class="label">Profile</span>
                 </a>
               </li>
             {% endif %}

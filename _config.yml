@@ -2,7 +2,7 @@
 title: 김광호의 포트폴리오
 description: 'Business Card Page'
 url: 'https://github.com/rodvkf72'
-baseurl: 'https://rodvkf72.github.io'
+baseurl: ''
 profilepic: '/images/khki.png'
 bkimage: '/images/bk2.png'
 google_analytics: UA-XXXXXX-X
@@ -12,6 +12,7 @@ author:
   name: 'Kwang Ho Kim'
   email: rodvkf72@naver.com
   #twitter_username: rodvkf72
+  username: rodvkf72
   facebook_username: rodvkf72
   github_username:  rodvkf72
   linkedin_username:  thomas-zühlke-889182165
