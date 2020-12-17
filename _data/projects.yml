@@ -23,7 +23,7 @@
   gh_user: rodvkf72
   repo: PayDay
   img: /images/spring.jpg
-  desc: 간편결제 시스템 프로젝트 입니다.<br>Spring4, mybatis, Oracle DB를 사용하였습니다.<br>시스템 설계, 데이터 테이블을 작성하였으며 정보수정, 간편결제 등록/해제, 상품 구매 기능을 구현 작업을 하였습니다.
+  desc: 간편결제 시스템 프로젝트 입니다.<br>Spring4, mybatis, Oracle DB를 사용하였습니다.<br>시스템 설계, 데이터 테이블을 작성하였으며 정보수정, 간편결제 등록/해제, 상품 구매 기능 구현 작업을 하였습니다.
 
 - name: Online Coding problem
   gh_user: rodvkf72
