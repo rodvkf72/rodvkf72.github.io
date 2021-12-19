@@ -11,13 +11,13 @@
   gh_user: rodvkf72
   repo: GO_WEB
   img: /images/go.png
-  desc: <br> 운영체제 - Window 10 <br> 개발도구 - GoLand, Visual Studio Code, phpmyadmin, MySQL WorkBench, SpringToolSuite4, Github <br> 기술스택 - Go(v1.5), Java(11), Spring Boot, MySQL, mybatis, html, css, javascript, Docker, AWS <br><br> 템플릿 없이 모든 부분을 직접 제작한 블로그 입니다. <br> Go언어로 작성되어 있지만 Java(Spring Boot)로 변환작업을 진행 중입니다. <br> 현재 AWS에 Docker를 사용하여 구동 중입니다. <br><br> 1. 데이터베이스, 서버 구축 <br> 2. 페이징, 동적 버튼 생성 등의 기능 추가 <br> 3. AWS, Docker를 사용하여 가상환경에서 서버 구동 <br> 4. 포트 포워딩, freenom을 사용하여 외부접속 및 도메인 등록 <br><br> 작업을 하였습니다.<br><br> * 도메인 만료일이 2021/12/18 이라 해당일 전후로 접속이 불가할 수 있습니다.
+  desc: <br> 운영체제 - Window 10 <br> 개발도구 - GoLand, Visual Studio Code, phpmyadmin, MySQL WorkBench, SpringToolSuite4, Github <br> 기술스택 - Go(v1.15.2), Java(11), Spring Boot, MySQL, mybatis, html, css, javascript, Docker, AWS <br><br> 템플릿 없이 모든 부분을 직접 제작한 블로그 입니다. <br> Go언어로 작성되어 있지만 Java(Spring Boot)로 변환작업을 진행 중입니다. <br> 현재 AWS에 Docker를 사용하여 구동 중입니다. <br><br> 1. 데이터베이스, 서버 구축 <br> 2. 페이징, 동적 버튼 생성 등의 기능 추가 <br> 3. AWS, Docker를 사용하여 가상환경에서 서버 구동 <br> 4. 포트 포워딩, freenom을 사용하여 외부접속 및 도메인 등록 <br><br> 작업을 하였습니다.<br><br> * 도메인 만료일이 2021/12/18 이라 해당일 전후로 접속이 불가할 수 있습니다.
 
 - name: New Comers
   gh_user: rodvkf72
   repo: Makers
   img: /images/android.png
-  desc: <br> 운영체제 - Window 10 <br> 개발도구 - Android Studio, Visual Studio Code, phpmyadmin, MySQL WorkBench, Unity, Github <br> 기술스택 - Go(v1.5), Java(1.8), MySQL, Unity Vuforia <br><br> 여행 동행자 확보를 위한 여행 정보 애플리케이션 입니다.<br><br> 1. 데이터베이스, 서버 구축 <br> 2. 카카오 로그인 API 연동 <br> 3. FCM을 사용한 푸시알림 기능 구현 <br> 4. 언데드 서비스 구현 <br> 5. Unity Vuforia를 활용한 AR 사물인식 <br><br> 작업을 하였습니다.
+  desc: <br> 운영체제 - Window 10 <br> 개발도구 - Android Studio, Visual Studio Code, phpmyadmin, MySQL WorkBench, Unity, Github <br> 기술스택 - Go(v1.15.2), Java(1.8), MySQL, Unity Vuforia <br><br> 여행 동행자 확보를 위한 여행 정보 애플리케이션 입니다.<br><br> 1. 데이터베이스, 서버 구축 <br> 2. 카카오 로그인 API 연동 <br> 3. FCM을 사용한 푸시알림 기능 구현 <br> 4. 언데드 서비스 구현 <br> 5. Unity Vuforia를 활용한 AR 사물인식 <br><br> 작업을 하였습니다.
 
 - name: Web Mail System
   gh_user: rodvkf72
@@ -35,4 +35,4 @@
   gh_user: rodvkf72
   repo: online-coding-problem
   img: /images/prog.png
-  desc: <br> 운영체제 - Window 10 <br> 개발도구 - GoLand, Eclipse IDE <br> 기술스택 - Go(v1.5), Java(11) <br><br> 프로그래머스, 백준 온라인 저지 문제를 직접 해결한 파일입니다.<br>프로그래머스는 Java로 작성하였으며 백준은 Go, Java로 작성하였습니다.<br>
+  desc: <br> 운영체제 - Window 10 <br> 개발도구 - GoLand, Eclipse IDE <br> 기술스택 - Go(v1.15.2), Java(11) <br><br> 프로그래머스, 백준 온라인 저지 문제를 직접 해결한 파일입니다.<br>프로그래머스는 Java로 작성하였으며 백준은 Go, Java로 작성하였습니다.<br>
