@@ -1,6 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: CashNamu
+  gh_user: rodvkf72
+  repo: CashNamu
+  img: /images/cashnamu.png
+  desc: <br> 운영체제 - Window 10 <br> 개발도구 - SpringToolSuite4, MySQL WorkBench, Github, Slack, Notion <br> 기술스택 - Java(1.8), Spring Framework, Javascript, MySQL, Svelte <br><br> 사용자에게 캐시 리워드를 해 주는 사이트 입니다. <br><br> 1. 작업서버, FCM 서버 구축 및 도커화 <br> 2. 프론트엔드, 백엔드 서버 분리 <br> 3. 상품 목록, 정렬기준, 페이징 버튼 ajax 처리 <br> 4. 관리자 페이지 ip 제한 <br><br> 작업을 하였습니다.<br><br> * 프로젝트 기여도 100% (현재까지 주어진 업무에 대한 오류나 딜레이 X)
+
 - name: iActs
   gh_user: rodvkf72
   repo: iActs
